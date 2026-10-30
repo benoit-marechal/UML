@@ -1,3 +1,9 @@
-> Destiné aux débutants et à but pédagogique, j'ai réalisé cette modélisation il y a plusieurs années à mes débuts en informatique. Je l'ai réalisé avec l'aide d'Anthony Maréchal.
+# Modélisation UML
 
-Modélisation UML avec les diagrammes Use Case, Class diagram et StateChart d'un processus de production et d'une gestion de stock.
+Travaux étudiants de 2005-2006, réalisés avec Anthony Maréchal et conservés comme archives pédagogiques.
+
+Modélisation d’un processus de production et d’une gestion de stock : diagrammes de cas d’utilisation, de classes et d’états-transitions.
+
+Le [rapport de gestion de stock](Marechal_Anthony_et_Benoit-Rapport-BD-L3.pdf) présente une partie des travaux. Les autres rapports et sujets sont conservés à la racine du dépôt.
+
+Les propositions d’amélioration sont bienvenues dans les issues et les pull requests.
